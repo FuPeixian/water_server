@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bcdd6"],{"2a0a":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 主页 ")])},c=[],u={},d=u,r=t("2877"),s=Object(r["a"])(d,a,c,!1,null,"ed44876a",null);n["default"]=s.exports}}]);
