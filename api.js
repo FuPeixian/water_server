@@ -47,4 +47,4 @@ app.get('/code/',async (req,res)=>{
   res.send(`<h1>${nickname}<h1/><img src="${headimgurl}"/>`)
 })
 
-app.use('/static',express.static(path.resolve(__dirname,'static')))
+app.use('/wepage', require('./wepage'))
